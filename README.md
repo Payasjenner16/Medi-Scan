@@ -97,7 +97,7 @@ MediScan/
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/SanjayKumar3110/MediScan.git
+git clone [[https://github.com/Payasjenner16/Medi-Scan.git]
 cd Mediscan/
 ```
 
